@@ -10,3 +10,9 @@ __DV--IV(Group)--IV(Exposure)--Subj__
 |   Var1             |       G1                     |        T1                   |  S1     |
 |   Var2             |       G2                     |        T2                   |  S2     |
 |   Var3             |       G3                     |        T3                   |  S3     |
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
