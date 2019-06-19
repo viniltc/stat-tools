@@ -11,8 +11,8 @@ __DV--IV(Group)--IV(Exposure)--Subj__
 |   Var2             |       G2                     |        T2                   |  S2     |
 |   Var3             |       G3                     |        T3                   |  S3     |
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Dependent Variable       | Independent variable (Group )         | Independent variable (Time)  | Subject |
+| ------------- |:-------------:| -----:|:---------:|
+| col 3 is      | right-aligned | $1600 | T1        |
+| col 2 is      | centered      |   $12 | T2        |
+| zebra stripes | are neat      |    $1 | T3        |
