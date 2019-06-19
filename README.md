@@ -1,7 +1,10 @@
 # stat-tools #
-Mixed effect ANOVA based on R. 
+Mixed effect repeated measures ANOVA based on R. 
 
-Prerequisie
+### Instruction ###
+1. Install [R Studio](https://www.rstudio.com/)
+2. Start R Studio and Install packages plyr, nlme, ggplot (by typing `install.packages("package name")`)
+
 
 
 Useful visualization based on grammer of graphics concept using [ggplot](http://ggplot.yhathq.com/) <br/>
